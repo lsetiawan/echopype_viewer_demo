@@ -1,0 +1,10 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - pangeo-notebook==2021.02.07
+  - xarray
+  - hvplot
+  - pip
+  - pip:
+    - sat-search
