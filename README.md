@@ -8,9 +8,9 @@ template repository for pangeo binder configuration
 4) Change the button URLs below to point to your repo (pangeo-data/pangeo-binder-template --> githubuser/repo)
 5) Share links with colleagues! 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/lsetiawan/echopype_viewer_demo/master?urlpath=lab)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/lsetiawan/echopype_viewer_demo/master?urlpath=%2Fpanel%2FOOI_EK60Visualization_Single_Demo)
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/lsetiawan/echopype_viewer_demo/master?urlpath=lab)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/lsetiawan/echopype_viewer_demo/master?urlpath=%2Fpanel%2FOOI_EK60Visualization_Single_Demo)
 
 
 #### info on customized badges:
