@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pangeo-notebook==2021.02.07
+  - jupyter-panel-proxy
   - xarray
   - intake
   - hvplot
