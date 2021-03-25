@@ -4,6 +4,7 @@ channels:
 dependencies:
   - pangeo-notebook==2021.02.07
   - xarray
+  - intake
   - hvplot
   - panel
   - fsspec
