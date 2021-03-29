@@ -10,6 +10,7 @@ dependencies:
   - intake-xarray
   - hvplot
   - panel
+  - datashader
   - fsspec
   - s3fs
   - cmocean
